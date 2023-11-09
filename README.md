@@ -16,7 +16,6 @@ _Made by Gijs van den Beuken_
   - [Issues](#subheading-issues)
 - [fxWizard Script Documentation](#heading-sprint-documentation)
 - [fxWizard Front-end Documentation](#heading-front-end-documentation)
-- [fxWizard Back-end Documentation](#heading-back-end-documentation)
 - [fxWizard API Documentation](#heading-api-documentation)
 
 ## Introduction <a name="heading-introduction"></a>
@@ -94,7 +93,5 @@ This sprint didn't meet my initial expectations for success. While I did success
 ## fxWizard Script Documentation <a name="heading-sprint-documentation"></a>
 
 ## fxWizard Front-end Documentation <a name="heading-front-end-documentation"></a>
-
-## fxWizard Back-end Documentation <a name="heading-back-end-documentation"></a>
 
 ## fxWizard API Documentation <a name="heading-api-documentation"></a>
