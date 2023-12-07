@@ -80,9 +80,16 @@ This sprint didn't meet my initial expectations for success. While I did success
 
 ##### Evaluation
 
-#### Sprint 5 <a name="subheading-sprint-5"></a>
+Overall, this print went way better than the previous sprint. Everything I worked on worked as expected. In the next sprint, I will focus on the two learning outcomes I haven't set to "Beginning" yet. I will also think more about the security issues of my application.
+
+#### Sprint 5 | 4 weeks<a name="subheading-sprint-5"></a>
 
 ##### Goals
+
+- Solve problems when it comes to configuring unit-testing
+- Get unit-testing up and running for front-end and API
+- Implement unit-tests in CI/CD for both applicaitons
+- Add secure routes on front-end application with user roles
 
 ##### Evaluation
 
