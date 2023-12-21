@@ -6,6 +6,8 @@ _Made by Gijs van den Beuken_
 
 - [Introduction](#heading-introduction)
 - [General](#heading-general)
+- [Research on ExtendScript](#heading-general)
+- [Research on protected routes](#heading-general)
 - [User Stories](#subheading-user-stories)
   - [Sprint Log](#subheading-sprint-log)
     - [Sprint 1](#subheading-sprint-1)
@@ -31,11 +33,19 @@ I frequently use Adobe After Effects, a software application used in video produ
 
 Beneath, you'll find general documentation associated with this individual project.
 
-### User Stories <a name="subheading-user-stories"></a>
+## Research on ExtendScript <a name="research-on-extendscript"></a>
+
+[Research on ExtendScript](https://github.com/gijsvdbeuken/IPS3-DB02-Thesis-individual)
+
+## Research on protected routes <a name="research-on-protected-routes"></a>
+
+[Research on protected routes](https://github.com/gijsvdbeuken/IPS3-DB02-Thesis-security)
+
+## User Stories <a name="subheading-user-stories"></a>
 
 As a motion designer, I want to enhance my efficiency in video production, So that I can focus more on creative aspects and less on repetitive tasks.
 
-#### Acceptance Criteria
+### Acceptance Criteria
 
 - The plug-in should seamlessly integrate into the After Effects interface.
 - The plug-in should have an intuitive and user-friendly interface.
