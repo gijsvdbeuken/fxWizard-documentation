@@ -53,51 +53,51 @@ As a motion designer, I want to enhance my efficiency in video production, So th
 - The plug-in should allow customization to cater to different project requirements.
 - The plug-in should significantly reduce the time needed for routine actions in After Effects.
 
-### Sprint Log <a name="subheading-sprint-log"></a>
+## Sprint Log <a name="subheading-sprint-log"></a>
 
 Within this section, I will provide an ongoing account of my progress throughout each sprint. For each sprint, I have established specific objectives, and I will assess my performance after each one to record the outcomes.
 
-#### Sprint 1 <a name="subheading-sprint-1"></a>
+### Sprint 1 <a name="subheading-sprint-1"></a>
 
-##### Goals
+#### Goals
 
 - Think about what application I'm going to create
 - Explore the requirements about this application
 - Doing overall research about Extendscript
 
-##### Evaluation
+#### Evaluation
 
 In summary, this sprint was quite successful, primarily focusing on orientation and exploration.
 
 #### Sprint 2 <a name="subheading-sprint-2"></a>
 
-##### Goals
+#### Goals
 
 - Learn about Extendscript
 - Orient myself in Canvas
 - Establish frameworks I want to use
 - Build initial parts of the script
 
-##### Evaluation
+#### Evaluation
 
 This sprint went smoothly and significantly contributed to my understanding of the project I'm going to develop. I've been able to refine my thoughts, which has enhanced my comprehension of the project's scope.
 
-#### Sprint 3 <a name="subheading-sprint-3"></a>
+### Sprint 3 <a name="subheading-sprint-3"></a>
 
-##### Goals
+#### Goals
 
 - Setup web application
 - Create login and create account page
 - Connect database to application
 - Create login UI on script
 
-##### Evaluation
+#### Evaluation
 
 This sprint didn't meet my initial expectations for success. While I did successfully accomplish all the goals I had set for this sprint, I realized during the project delivery that there wasn't as much visible progress. Consequently, I'm setting higher expectations for the upcoming sprint to inject more momentum into this project.
 
-#### Sprint 4 <a name="subheading-sprint-4"></a>
+### Sprint 4 <a name="subheading-sprint-4"></a>
 
-##### Goals
+#### Goals
 
 - Restructure application into different repositories
 - Build user authentication on the login screen
@@ -105,28 +105,28 @@ This sprint didn't meet my initial expectations for success. While I did success
 - Create the UI of the dashboardpage
 - Explore about how I can incorporate CI/CD
 
-##### Evaluation
+#### Evaluation
 
 Overall, this print went way better than the previous sprint. Everything I worked on worked as expected. In the next sprint, I will focus on the two learning outcomes I haven't set to "Beginning" yet. I will also think more about the security issues of my application.
 
-#### Sprint 5 | 4 weeks<a name="subheading-sprint-5"></a>
+### Sprint 5 | 4 weeks<a name="subheading-sprint-5"></a>
 
-##### Goals
+#### Goals
 
 - Solve problems when it comes to configuring unit-testing
 - Get unit-testing up and running for front-end and API
 - Implement unit-tests in CI/CD for both applicaitons
 - Add secure routes on front-end application with user roles
 
-##### Evaluation
+#### Evaluation
 
 This sprint went pretty well, and I managed to finish all goals I have set for it.
 
-#### Sprint 6 <a name="subheading-sprint-6"></a>
+### Sprint 6 <a name="subheading-sprint-6"></a>
 
-##### Goals
+#### Goals
 
 - Create research document for protected routes
 - Create research document for Adobe ExtendScript
 
-##### Evaluation
+#### Evaluation
