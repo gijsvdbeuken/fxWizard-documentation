@@ -6,25 +6,42 @@ _Made by Gijs van den Beuken_
 
 - [Introduction](#heading-introduction)
 - [General](#heading-general)
+- [User Stories](#subheading-user-stories)
   - [Sprint Log](#subheading-sprint-log)
     - [Sprint 1](#subheading-sprint-1)
     - [Sprint 2](#subheading-sprint-2)
     - [Sprint 3](#subheading-sprint-3)
     - [Sprint 4](#subheading-sprint-4)
     - [Sprint 5](#subheading-sprint-5)
-  - [User Stories](#subheading-user-stories)
-  - [Issues](#subheading-issues)
-- [fxWizard Script Documentation](#heading-sprint-documentation)
-- [fxWizard Front-end Documentation](#heading-front-end-documentation)
-- [fxWizard API Documentation](#heading-api-documentation)
+    - [Sprint 6](#subheading-sprint-6)
 
 ## Introduction <a name="heading-introduction"></a>
 
 Within this document, you will find comprehensive documentation pertaining to all aspects of my application, whether it's documentation related to the script, front-end, back-end, or any other component. Everything you need can be located right here.
 
+### With which fellow student would you like to (possibly) form a duo?
+
+I choose to work independently on this project, mainly because the functional problem I want to solve is closely intertwined with my own interests and issues.
+
+### What functional problem would you like to solve?
+
+I frequently use Adobe After Effects, a software application used in video production. It often happens that repeated steps need to be taken in projects, which takes up significant extra time. Therefore, I plan to develop a plug-in that will significantly reduce these repetitive actions.
+
 ## General <a name="heading-general"></a>
 
 Beneath, you'll find general documentation associated with this individual project.
+
+### User Stories <a name="subheading-user-stories"></a>
+
+As a motion designer, I want to enhance my efficiency in video production, So that I can focus more on creative aspects and less on repetitive tasks.
+
+#### Acceptance Criteria
+
+- The plug-in should seamlessly integrate into the After Effects interface.
+- The plug-in should have an intuitive and user-friendly interface.
+- It should provide clear options for automating repetitive tasks commonly encountered in video production.
+- The plug-in should allow customization to cater to different project requirements.
+- The plug-in should significantly reduce the time needed for routine actions in After Effects.
 
 ### Sprint Log <a name="subheading-sprint-log"></a>
 
@@ -93,12 +110,13 @@ Overall, this print went way better than the previous sprint. Everything I worke
 
 ##### Evaluation
 
-### User Stories <a name="subheading-user-stories"></a>
+This sprint went pretty well, and I managed to finish all goals I have set for it.
 
-### Issues <a name="subheading-issues"></a>
+#### Sprint 6 <a name="subheading-sprint-6"></a>
 
-## fxWizard Script Documentation <a name="heading-sprint-documentation"></a>
+##### Goals
 
-## fxWizard Front-end Documentation <a name="heading-front-end-documentation"></a>
+- Create research document for protected routes
+- Create research document for Adobe ExtendScript
 
-## fxWizard API Documentation <a name="heading-api-documentation"></a>
+##### Evaluation
