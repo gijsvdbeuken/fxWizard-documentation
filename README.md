@@ -16,6 +16,7 @@ _Made by Gijs van den Beuken_
     - [Sprint 4](#subheading-sprint-4)
     - [Sprint 5](#subheading-sprint-5)
     - [Sprint 6](#subheading-sprint-6)
+    - [Sprint 7](#subheading-sprint-7)
 
 ## Introduction <a name="heading-introduction"></a>
 
@@ -35,11 +36,11 @@ Beneath, you'll find general documentation associated with this individual proje
 
 ## Research on ExtendScript <a name="research-on-extendscript"></a>
 
-[Research on ExtendScript](https://github.com/gijsvdbeuken/IPS3-DB02-Thesis-individual)
+[Research on ExtendScript](https://github.com/gijsvdbeuken/IPS3-DB02-analysis-individual)
 
 ## Research on protected routes <a name="research-on-protected-routes"></a>
 
-[Research on protected routes](https://github.com/gijsvdbeuken/IPS3-DB02-Thesis-security)
+[Research on protected routes](https://github.com/gijsvdbeuken/IPS3-DB02-analysis-security)
 
 ## User Stories <a name="subheading-user-stories"></a>
 
@@ -130,3 +131,16 @@ This sprint went pretty well, and I managed to finish all goals I have set for i
 - Create research document for Adobe ExtendScript
 
 #### Evaluation
+
+Because I've finished both analysis documents, I feel like I've finsished this sprint well. The next sprint will be the final sprint.
+
+### Sprint 7 <a name="subheading-sprint-7"></a>
+
+#### Goals
+
+- Go over all the things I've made, and check for minor improvements.
+- Organise GitHub repositories more efficiently.
+
+#### Evaluation
+
+Because I've finished both analysis documents, I feel like I've finsished this sprint well. The next sprint will be the final sprint.
