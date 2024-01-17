@@ -9,14 +9,14 @@ _Made by Gijs van den Beuken_
 - [Research on ExtendScript](#heading-general)
 - [Research on protected routes](#heading-general)
 - [User Stories](#subheading-user-stories)
-  - [Sprint Log](#subheading-sprint-log)
-    - [Sprint 1](#subheading-sprint-1)
-    - [Sprint 2](#subheading-sprint-2)
-    - [Sprint 3](#subheading-sprint-3)
-    - [Sprint 4](#subheading-sprint-4)
-    - [Sprint 5](#subheading-sprint-5)
-    - [Sprint 6](#subheading-sprint-6)
-    - [Sprint 7](#subheading-sprint-7)
+- [Sprint Log](#subheading-sprint-log)
+  - [Sprint 1](#subheading-sprint-1)
+  - [Sprint 2](#subheading-sprint-2)
+  - [Sprint 3](#subheading-sprint-3)
+  - [Sprint 4](#subheading-sprint-4)
+  - [Sprint 5](#subheading-sprint-5)
+  - [Sprint 6](#subheading-sprint-6)
+  - [Sprint 7](#subheading-sprint-7)
 
 ## Introduction <a name="heading-introduction"></a>
 
@@ -53,6 +53,14 @@ As a motion designer, I want to enhance my efficiency in video production, So th
 - It should provide clear options for automating repetitive tasks commonly encountered in video production.
 - The plug-in should allow customization to cater to different project requirements.
 - The plug-in should significantly reduce the time needed for routine actions in After Effects.
+
+As a Creative Director, I want to be able to access a dedicated dashboard and the video editors' page so that I can oversee and manage video editors' data efficiently.
+
+### Acceptance Criteria
+
+- The system should provide a dedicated and secure login for the Creative Director to access the dashboard.
+- The Creative Director should be able to access all pages, except the Admin page.
+- The Creative Director should have its own unique user-role assigned to their account.
 
 ## Sprint Log <a name="subheading-sprint-log"></a>
 
